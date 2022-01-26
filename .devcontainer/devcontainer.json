@@ -3,11 +3,5 @@
 
 	"dockerComposeFile": "docker-compose.yaml",
 
-	"service": "dotfiles",
-
-	"settings": {
-
-		// Use login shells by default in the integrated terminal on linux
-		"terminal.integrated.shellArgs.linux": ["--login"]
-	}
+	"service": "dotfiles"
 }
